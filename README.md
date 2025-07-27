@@ -1,22 +1,22 @@
-<h1 align="center">Olá, eu sou o Rui Gomes 👨‍💻</h1>
+<h1 align="center">Hello, I am Rui Gomes 👨‍💻</h1>
 
-<p align="center">Estudante de Engenharia Informática | Desenvolvedor Web | Apaixonado por Redes e Tecnologia</p>
-
----
-
-### 🎯 Sobre mim
-
-- 💻 Estudante de Engenharia Informática (ISUPEKUIKUI II - Huambo, Angola) — conclusão em 2025.
-- 🚀 Participante do **Programa Desenvolve** (Grupo Boticário + Koru).
-- 🔧 Técnico de informática com experiência prática em suporte, redes e desenvolvimento web.
-- 🎓 Formações em redes, JavaScript, banco de dados, transformação digital e muito mais.
-- 🌐 Busco oportunidades na área de tecnologia para aplicar e expandir meus conhecimentos em TI.
+<p align="center">Computer Engineering Student | Web Developer | Passionate about Networks and Technology</p>
 
 ---
 
-### 🛠️ Habilidades Técnicas
+### 🎯 About Me
 
-**Desenvolvimento Web**  
+- 💻 Computer Engineering Student (ISUPEKUIKUI II - Huambo, Angola) — graduation in 2025.
+- 🚀 Participant of the **Desenvolve Program** (Grupo Boticário + Koru).
+- 🔧 IT technician with hands-on experience in support, networking, and web development.
+- 🎓 Trained in networking, JavaScript, databases, digital transformation, and much more.
+- 🌐 Seeking opportunities in the tech field to apply and expand my knowledge in IT.
+
+---
+
+### 🛠️ Technical Skills
+
+**Web Development**  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" alt="CSS3" />
@@ -26,37 +26,37 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" alt="MySQL" />
 </p>
 
-**Infraestrutura e Redes**  
-- Configuração e manutenção de redes de computadores  
-- Suporte técnico e diagnóstico de hardware/software
+**Infrastructure and Networks**  
+- Configuration and maintenance of computer networks  
+- Technical support and hardware/software diagnostics
 
 ---
 
-### 📚 Formação & Certificações
+### 📚 Education & Certifications
 
-- Engenharia Informática – ISUPEKUIKUI II (2025)  
+- Computer Engineering – ISUPEKUIKUI II (2025)  
 - Desenvolve - Grupo Boticário  
 - Computer Networks – Huawei Talent  
-- Programador Web – IFRS  
-- JavaScript Essentials 1 e 2 – Cisco  
-- Banco de Dados e Desenvolvimento Web Interativo – IFRS  
-- Transformação Digital – Santander Open Academy  
+- Web Developer – IFRS  
+- JavaScript Essentials 1 & 2 – Cisco  
+- Databases and Interactive Web Development – IFRS  
+- Digital Transformation – Santander Open Academy  
 - Cisco Network Essential – Cisco / CINFOTEC  
-- Inglês (nível intermediário) – Lutal’or  
+- English (intermediate level) – Lutal’or  
 
 ---
 
-### 💼 Experiência
+### 💼 Experience
 
-**Técnico de Informática (Autônomo)** — 2016–Presente  
-- Diagnóstico e reparo de hardware/software  
-- Suporte a usuários e configuração de redes
-
----
+**IT Technician (Freelance)** — 2016–Present  
+- Hardware/software diagnostics and repair  
+- User support and network configuration
 
 ---
 
-### 📬 Contato
+---
+
+### 📬 Contact
 
 <p align="left">
   <a href="mailto:ruisoft01@gmail.com" target="_blank">
@@ -76,7 +76,6 @@
   </a>
 </p>
 
-
 ---
 
-<p align="center"><em>“Tecnologia é como uma rede bem montada: conecta ideias, pessoas e transforma realidades.”</em></p>
+<p align="center"><em>“Technology is like a well-built network: it connects ideas, people, and transforms realities.”</em></p>
