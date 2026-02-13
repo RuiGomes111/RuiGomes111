@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I am Rui Gomes 👨‍💻</h1>
 
-<p align="center">Computer Engineering Student | Web Developer | Passionate about Networks and Technology</p>
+<p align="center">Computer Engineering | Web Developer | Passionate about Networks and Technology</p>
 
 ---
 
