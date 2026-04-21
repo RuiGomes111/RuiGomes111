@@ -6,7 +6,7 @@
 
 ### 🎯 About Me
 
-- 💻 Computer Engineering Student (ISUPEKUIKUI II - Huambo, Angola) — graduation in 2025.
+- 💻 Computer Engineering.
 - 🚀 Participant of the **Desenvolve Program** (Grupo Boticário + Koru).
 - 🔧 IT technician with hands-on experience in support, networking, and web development.
 - 🎓 Trained in networking, JavaScript, databases, digital transformation, and much more.
